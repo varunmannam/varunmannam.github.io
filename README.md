@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Varun Mannam (E-mail: vmannam@nd.edu)
 
-You can use the [editor on GitHub](https://github.com/varunmannam/varunmannam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Biography
+Varun Mannam was born in Ongole, Andhra Pradesh, India, and received a Bachelor of Technology and Master of Technology degree in Electronics and Communications Engineering from Bapatla Engineering College, Acharya Nagarjuna University, Guntur, Andhra Pradesh, India and Indian Institute of Technology Kharagpur, West Bengal, India, in 2010 and 2012, respectively. From 2012-2017, he worked as Staff Software Engineer to develop wireless communication protocols (like Bluetooth, WIFI) at National Instruments (R&D) Bangalore, India. He came to the University of Notre Dame in 2017 to pursue a doctorate in Electrical Engineering. Currently, he is a Ph.D. student working with Dr. Scott Howard in the Biophotonics Research Group. His research is about the applications of fluorescence microscopy that could advance the work of other researchers and medical personnel in a wide variety of fields. His research interests include deep learning, machine learning, computer vision, FLIM, super-resolution, compressive sensing and, neural circuits.
+![image](https://user-images.githubusercontent.com/38203187/135363920-c71bd4b7-e636-401a-8e77-dd436de2bbce.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/varunmannam/varunmannam.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
