@@ -13,3 +13,25 @@ Indian Institute of Technology, Kharagpur
 B.Tech. in Electrical Engineering, 2010
 Bapatla Engineering College, Andhra Pradesh, India
 
+## Experience
+Summer Research Intern (May 2021 - August 2021)
+Feinstein Institute for Medical Research (FIMR), Northwell Hospitals, New York, NY
+
+Summer Research Intern (May 2019 - August 2019)
+IBM Research Center, T.J Watson, New York, NY
+
+
+## Links
+[Email] (vmannam@nd.edu/mannamvarun@gmail.com)
+
+[LinkedIN] (https://github.com/varunmannam)
+
+[Twitter] (https://twitter.com/mannam_varun)
+
+[Research Gate] (https://www.researchgate.net/profile/Varun-Mannam)
+
+[GitHub] (https://github.com/varunmannam)
+
+
+
+
