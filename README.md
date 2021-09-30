@@ -20,6 +20,8 @@ Feinstein Institute for Medical Research (FIMR), Northwell Hospitals, New York, 
 Summer Research Intern (May 2019 - August 2019)
 IBM Research Center, T.J Watson, New York, NY
 
+Staff Software Engineer (December 2012 -  August 2017)
+National Instruments R&D, Bangalore, India
 
 ## Links
 [!Email] (vmannam@nd.edu)
