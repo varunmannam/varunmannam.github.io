@@ -7,10 +7,10 @@ Varun Mannam was born in Ongole, Andhra Pradesh, India, and received a Bachelor 
 Ph.D. in Electrical Engineering, 2022
 University of Notre Dame
 
-M.Tech. in Electrical Engineering, 2012
+M.Tech. in Electronics and Communications Engineering, 2012
 Indian Institute of Technology, Kharagpur
 
-B.Tech. in Electrical Engineering, 2010
+B.Tech. in Electronics and Communications Engineering, 2010
 Bapatla Engineering College, Andhra Pradesh, India
 
 ## Experience
