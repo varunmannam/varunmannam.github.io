@@ -11,6 +11,5 @@ M.Tech. in Electrical Engineering, 2012
 Indian Institute of Technology, Kharagpur
 
 B.Tech. in Electrical Engineering, 2010
-
 Bapatla Engineering College, Andhra Pradesh, India
 
