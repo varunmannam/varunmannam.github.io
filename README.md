@@ -33,5 +33,10 @@ IBM Research Center, T.J Watson, New York, NY
 [GitHub] (https://github.com/varunmannam)
 
 
-
+## Contact
+Varun Mannam (vmannam@nd.edu)
+574-292-9036
+275, Electrical Engineering
+University of Notre Dame
+Notre Dame, IN, 46556, USA
 
