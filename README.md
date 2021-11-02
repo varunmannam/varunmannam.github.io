@@ -24,7 +24,7 @@ Staff Software Engineer (December 2012 -  August 2017)
 National Instruments R&D, Bangalore, India
 
 ## Links
-[Email](vmannam@nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam)
+[Email](vmannam@nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam)
 
 
 ## Contact
