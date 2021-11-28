@@ -26,6 +26,13 @@ National Instruments R&D, Bangalore, India
 ## Links
 [Email](vmannam@nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1K8T-HkEcCe3i9ik5SlrsFsfBZJu0usPo/view?usp=sharing)
 
+## Papers (Draft/In prepartion/Submitted)
+Markup : ```javascript
+         ```
+Markup : * Bullet list
+            * Nested bullet
+              * Sub-nested bullet etc
+         * Bullet list item 2
 
 ## Contact
 Varun Mannam (vmannam@nd.edu)
