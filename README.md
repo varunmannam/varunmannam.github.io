@@ -28,10 +28,10 @@ National Instruments R&D, Bangalore, India
 
 ## Papers (Draft/In prepartion/Submitted)
 
-1. Varun Mannam, Xiaotong Yuan, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", 11965-24, SPIE Photonics West (2022), In preparation
-2. Varun Mannam, Jacob Brandt, Cody Smith and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", 11966-04, SPIE Photonics West (2022), In preparation.
+1. Varun Mannam, Xiaotong Yuan, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", 11965-24, SPIE Photonics West (2022).
+2. Varun Mannam, Jacob Brandt, Cody Smith and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", 11966-04, SPIE Photonics West (2022).
 3. Varun Mannam, "Energy-efficient convolutional neural networks using Hadamard method", Submitted to IEEE International Conference on Big Data (2021).
-4. Varun Mannam, Yide Zhang, Xiaotong Yuan and Scott Howard, "Ultra-Small Training Dataset Convolutional Neural Networks for Super-Resolution Microscopy", Submitted to IEEE J-Biomedical and health informatiocs journal (2021).
+4. Varun Mannam, Yide Zhang, Xiaotong Yuan and Scott Howard, "Ultra-Small Training Dataset Convolutional Neural Networks for Super-Resolution Microscopy", Submitted to IEEE Journal of Biomedical and Health Informatiocs (J-BHI) journal (2021).
 
 
 ## Contact
