@@ -34,12 +34,13 @@ National Instruments R&D, Bangalore, India
 
 1. Nature: Scientific Reports 
 2. OSA: Applied Optics (AO)
-3. OSA: Biomedical Optics Express
+3. OSA: Biomedical Optics Express (BOE)
 4. OSA: Optics Express (OE)
 5. OSA: Optics Letters (OL)
 6. OSA: Photonics Research (PR)
 7. IEEE: jounranl of Biomedical and Health Informatics (j-BHI) 
 8. SPIE: Optical Engineering 
+9. SPIE: Journal of Electronic Imaging (JEI)
 
 ## Contact
 Varun Mannam (vmannam@nd.edu)
