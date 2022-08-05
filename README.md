@@ -1,4 +1,4 @@
-## Varun Mannam (E-mail: vmannam@nd.edu)
+## Varun Mannam (E-mail: vmannam@nd.edu/mannamvarun@gmail.com)
 
 ## Education
 Ph.D. in Electrical Engineering, 2022
