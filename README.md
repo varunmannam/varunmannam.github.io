@@ -1,4 +1,4 @@
-## Varun Mannam (E-mail: vmannam@nd.edu/mannamvarun@gmail.com)
+## Varun Mannam (E-mail: vmannam@nd.edu /mannamvarun@gmail.com)
 
 ## Education
 Ph.D. in Electrical Engineering, 2022
@@ -21,7 +21,7 @@ Staff Software Engineer (December 2012 -  August 2017)
 National Instruments R&D, Bangalore, India
 
 ## Links
-| [Email](vmannam@nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1K8T-HkEcCe3i9ik5SlrsFsfBZJu0usPo/view?usp=sharing) |
+| [Email](vmannam@nd.edu / mannamvarun@gmail.com) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1K8T-HkEcCe3i9ik5SlrsFsfBZJu0usPo/view?usp=sharing) |
 
 ## Papers (Accepted)
 
@@ -29,7 +29,7 @@ National Instruments R&D, Bangalore, India
 
 ## Papers (Draft/In prepartion/Submitted)
 
-1. Varun Mannam, Yide Zhang, Xiaotong Yuan and Scott Howard, "Ultra-Small Training Dataset Convolutional Neural Networks for Super-Resolution Microscopy", [Submitted](https://drive.google.com/drive/u/1/folders/1i_dxoNj-I5bSlDlXGI391GANeONYt_aG) (2022).
+1. Varun Mannam, and Scott Howard, "Ultra-Small Training Dataset Convolutional Neural Networks for Super-Resolution Microscopy", [Submitted](https://drive.google.com/drive/u/1/folders/1i_dxoNj-I5bSlDlXGI391GANeONYt_aG) (2022).
 2. Varun Mannam, Xiaotong Yuan, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", (Journal) [In preparation] (2022).
 3. Varun Mannam, Jacob Brandt, Cody Smith and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", (Journal) [In preparation] (2022).
 4. Varun Mannam, Yide Zhang, Xiaotong Yuan and Scott Howard, "FLIM denoising using CNN's", (Journal) [In preparation] (2022).
