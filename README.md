@@ -1,12 +1,13 @@
-## Dr. Varun Mannam (E-mail: vmannam@nd.edu / mannamvarun@gmail.com)
+# Dr. Varun Mannam 
+## E-mail
+vmannam@nd.edu / mannamvarun@gmail.com
 
 ## Education
-Ph.D. in Electrical Engineering, 2022
-University of Notre Dame
+Markup : - Ph.D. in Electrical Engineering, 2022
+            - University of Notre Dame
 
-M.Tech. in Electronics and Communications Engineering, 2012
-Indian Institute of Technology, Kharagpur
-
+         - M.Tech. in Electronics and Communications Engineering, 2012
+            - Indian Institute of Technology, Kharagpur
 
 ## Experience
 Applied Scientist II (Aug 2022 - Present)
