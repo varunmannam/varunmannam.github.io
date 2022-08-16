@@ -7,8 +7,6 @@ University of Notre Dame
 M.Tech. in Electronics and Communications Engineering, 2012
 Indian Institute of Technology, Kharagpur
 
-B.Tech. in Electronics and Communications Engineering, 2010
-Bapatla Engineering College, Andhra Pradesh, India
 
 ## Experience
 Applied Scientist II (AUg 2022 - Present)
@@ -23,23 +21,36 @@ IBM Research Center, T.J Watson, New York, NY
 Staff Software Engineer (December 2012 -  August 2017)
 National Instruments R&D, Bangalore, India
 
+
 ## Links
 | [Email](vmannam@nd.edu / mannamvarun@gmail.com) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1K8T-HkEcCe3i9ik5SlrsFsfBZJu0usPo/view?usp=sharing) |
 
+
 ## Papers (Accepted)
 
-1. Varun Mannam, et.al., "Real-time Image Denoising of Mixed Poisson-Gaussian Noise in Fluorescence Microscopy Images using ImageJ", Accepted in Optica (2022). (Impact factor: 11.10) [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.10.468102v2)
+1. Varun Mannam, et.al., "" (place holder)
+
 
 ## Papers (Draft/In prepartion/Submitted)
 
-1. Varun Mannam, and Scott Howard, "Ultra-Small Training Dataset Convolutional Neural Networks for Super-Resolution Microscopy", [Submitted](https://drive.google.com/drive/u/1/folders/1i_dxoNj-I5bSlDlXGI391GANeONYt_aG) (2022).
-2. Varun Mannam, Xiaotong Yuan, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", (Journal) [In preparation] (2022).
-3. Varun Mannam, Jacob Brandt, Cody Smith and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", (Journal) [In preparation] (2022).
-4. Varun Mannam, Yide Zhang, Xiaotong Yuan and Scott Howard, "FLIM denoising using CNN's", (Journal) [In preparation] (2022).
-5. Varun Mannam, "Energy-efficient convolutional neural networks using Hadamard method", (Arxiv 2022).
+1. Varun Mannam, and Scott Howard, "Ultra-Small Training Dataset Convolutional Neural Networks for Super-Resolution Microscopy", [Submitted](https://drive.google.com/drive/u/1/folders/1i_dxoNj-I5bSlDlXGI391GANeONYt_aG) (Fall 2022).
+2. Varun Mannam, "Energy-efficient convolutional neural networks using Hadamard method", (IEEE Big-data 2022).
+3. Varun Mannam, and Scott Howard, "FLIM denoising using CNN's", (Journal) [In preparation] (2022).
+4. Varun Mannam, Xiaotong Yuan, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", (Journal) [In preparation] (2022).
+5. Varun Mannam, and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", (Journal) [In preparation] (2022).
+
+## Papers (Published)
+1. See my google scholar page: [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao)
 
 
-## Reviewer for the following jounrals
+## Ph.D. Thesis
+1. https://curate.nd.edu/show/5x21td99n58
+
+## Master's Thesis
+1. https://github.com/varunmannam/Mtech_project/tree/master/Mtech_Varun_Mannam_project
+
+
+## Reviewer to the following jounrals
 
 1. Nature: Scientific Reports 
 2. OSA: Applied Optics (AO)
@@ -48,17 +59,10 @@ National Instruments R&D, Bangalore, India
 5. OSA: Optics Letters (OL)
 6. OSA: Photonics Research (PR)
 7. IEEE: jounranl of Biomedical and Health Informatics (j-BHI) 
-8. SPIE: Optical Engineering 
-9. SPIE: Journal of Electronic Imaging (JEI)
+8. SPIE: Journal of Biomedical Optics (JBO)
+9. SPIE: Optical Engineering 
+10. SPIE: Journal of Electronic Imaging (JEI)
 
 ## Contact
-Varun Mannam (vmannam@nd.edu)
+Varun Mannam (vmannam@nd.edu / mannamvarun@gmail.com)
 
-275, Electrical Engineering
-
-University of Notre Dame
-
-Notre Dame, IN, 46556, USA
-
-## Biography
-Varun Mannam was born in Ongole, Andhra Pradesh, India, and received a Bachelor of Technology and Master of Technology degree in Electronics and Communications Engineering from Bapatla Engineering College, Acharya Nagarjuna University, Guntur, Andhra Pradesh, India and Indian Institute of Technology Kharagpur, West Bengal, India, in 2010 and 2012, respectively. From 2012-2017, he worked as Staff Software Engineer to develop wireless communication protocols (like Bluetooth, WIFI) at National Instruments (R&D) Bangalore, India. He came to the University of Notre Dame in 2017 to pursue a doctorate in Electrical Engineering. Currently, he is a Ph.D. student working with Dr. Scott Howard in the Biophotonics Research Group. His research is about the applications of fluorescence microscopy that could advance the work of other researchers and medical personnel in a wide variety of fields. His research interests include deep learning, machine learning, computer vision, FLIM, super-resolution, compressive sensing and, neural circuits.
