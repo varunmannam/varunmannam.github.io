@@ -44,11 +44,11 @@ vmannam@nd.edu / mannamvarun@gmail.com
 1. See my google scholar page: [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao)
 
 
-## Ph.D. Thesis
-1. https://curate.nd.edu/show/5x21td99n58
+## Ph.D. doctoral dissertation
+1. [Ph.D. Thesis](https://curate.nd.edu/show/5x21td99n58)
 
 ## Master's Thesis
-1. https://github.com/varunmannam/Mtech_project/tree/master/Mtech_Varun_Mannam_project
+1. [M.S. Thesis](https://github.com/varunmannam/Mtech_project/tree/master/Mtech_Varun_Mannam_project)
 
 
 ## Reviewer to the following jounrals
