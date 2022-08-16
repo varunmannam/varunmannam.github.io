@@ -1,4 +1,4 @@
-## Varun Mannam (E-mail: vmannam@nd.edu /mannamvarun@gmail.com)
+## Dr. Varun Mannam (E-mail: vmannam@nd.edu / mannamvarun@gmail.com)
 
 ## Education
 Ph.D. in Electrical Engineering, 2022
@@ -11,6 +11,9 @@ B.Tech. in Electronics and Communications Engineering, 2010
 Bapatla Engineering College, Andhra Pradesh, India
 
 ## Experience
+Applied Scientist II (AUg 2022 - Present)
+Amazon, Bellevue, WA
+
 Summer Research Intern (May 2021 - August 2021)
 Feinstein Institute for Medical Research (FIMR), Northwell Hospitals, New York, NY
 
