@@ -78,6 +78,11 @@
 9. SPIE: Optical Engineering 
 10. SPIE: Journal of Electronic Imaging (JEI)
 
+## Projects
+- Image denoising
+- Image super-resolution
+- Compressive sensing
+
 
 ## Biography
 I am an applied scientist at Aamzon, Bellevue. I was born in Ongole, Andhra Pradesh, India, and received a Bachelor of Technology and Master of Technology degree in Electronics and Communications Engineering from Bapatla Engineering College, Acharya Nagarjuna University, Guntur, Andhra Pradesh, India and Indian Institute of Technology Kharagpur, West Bengal, India, in 2010 and 2012, respectively. From 2012-2017, I worked as Staff Software Engineer to develop wireless communication protocols (like Bluetooth, WIFI) at National Instruments (R&D) Bangalore, India. I came to the University of Notre Dame in 2017 to pursue a doctorate in Electrical Engineering. During my Ph.D. I worked with Dr. Scott Howard in the Biophotonics Research Group. My research is about the applications of fluorescence microscopy that could advance the work of other researchers and medical personnel in a wide variety of fields. My research interests include NLP, deep learning, machine learning, computer vision, FLIM, super-resolution, compressive sensing and, neural circuits.
