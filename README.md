@@ -79,9 +79,14 @@
 10. SPIE: Journal of Electronic Imaging (JEI)
 
 ## Projects
-- Image denoising
-- Image super-resolution
-- Compressive sensing
+- Fluorescence microscopy Image denoising 
+    - [GitHub](https://github.com/ND-HowardGroup/Instant-Image-Denoising)
+- Fluorescence microscopy Super-resolution
+    - [GitHub](https://github.com/ND-HowardGroup/Deep_learning_Super-resolution)
+- FLIM Deconvolution
+    - [GitHub](https://github.com/ND-HowardGroup/Deconvolution_lifetime_imaging)
+- Fluorescence microscopy Compressive sensing
+    - [GitHub](https://github.com/ND-HowardGroup/Low-power-in-vivo-imaging)
 
 
 ## Biography
