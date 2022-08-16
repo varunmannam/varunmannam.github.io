@@ -10,21 +10,17 @@ vmannam@nd.edu / mannamvarun@gmail.com
     - Indian Institute of Technology, Kharagpur
 
 ## Experience
-Applied Scientist II (Aug 2022 - Present)
+- Applied Scientist II (Aug 2022 - Present)
+    - Amazon, Bellevue, WA
 
-Amazon, Bellevue, WA
+- Summer Research Intern (May 2021 - August 2021)
+    - Feinstein Institute for Medical Research (FIMR), Northwell Hospitals, New York, NY
 
-Summer Research Intern (May 2021 - August 2021)
+- Summer Research Intern (May 2019 - August 2019)
+    - IBM Research Center, T.J Watson, New York, NY
 
-Feinstein Institute for Medical Research (FIMR), Northwell Hospitals, New York, NY
-
-Summer Research Intern (May 2019 - August 2019)
-
-IBM Research Center, T.J Watson, New York, NY
-
-Staff Software Engineer (December 2012 -  August 2017)
-
-National Instruments R&D, Bangalore, India
+- Staff Software Engineer (December 2012 -  August 2017)
+    - National Instruments R&D, Bangalore, India
 
 
 ## Links
