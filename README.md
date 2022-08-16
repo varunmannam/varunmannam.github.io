@@ -1,4 +1,6 @@
 # Dr. Varun Mannam 
+- Applied Scientist II at Amazon
+
 ## E-mail
 vmannam@nd.edu / mannamvarun@gmail.com
 
@@ -21,6 +23,18 @@ vmannam@nd.edu / mannamvarun@gmail.com
 
 - Staff Software Engineer (December 2012 -  August 2017)
     - National Instruments R&D, Bangalore, India
+
+## Research Areas
+- Natural language processing (NLP)
+- Natural language understanding (NLU)
+- Computer Vision (CV)
+- Deep learning (DL)
+- Machine learning (ML)
+- Fluorescence microscopy (FM)
+- Fluorescence lifetime imaging microscopy (FLIM)
+- Image denoising
+- Super-resolution microscopy imaging
+- Compressive sensing (CS)
 
 
 ## Links
@@ -63,6 +77,10 @@ vmannam@nd.edu / mannamvarun@gmail.com
 8. SPIE: Journal of Biomedical Optics (JBO)
 9. SPIE: Optical Engineering 
 10. SPIE: Journal of Electronic Imaging (JEI)
+
+
+## Biography
+I am an applied scientist at Aamzon, Bellevue. I was born in Ongole, Andhra Pradesh, India, and received a Bachelor of Technology and Master of Technology degree in Electronics and Communications Engineering from Bapatla Engineering College, Acharya Nagarjuna University, Guntur, Andhra Pradesh, India and Indian Institute of Technology Kharagpur, West Bengal, India, in 2010 and 2012, respectively. From 2012-2017, he worked as Staff Software Engineer to develop wireless communication protocols (like Bluetooth, WIFI) at National Instruments (R&D) Bangalore, India. He came to the University of Notre Dame in 2017 to pursue a doctorate in Electrical Engineering. During my Ph.D. I worked with Dr. Scott Howard in the Biophotonics Research Group. My research is about the applications of fluorescence microscopy that could advance the work of other researchers and medical personnel in a wide variety of fields. My research interests include NLP, deep learning, machine learning, computer vision, FLIM, super-resolution, compressive sensing and, neural circuits.
 
 ## Contact
 Varun Mannam (vmannam@nd.edu / mannamvarun@gmail.com)
