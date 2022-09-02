@@ -51,8 +51,8 @@
 ## Papers (Draft/In prepartion/Submitted)
 
 1. Varun Mannam, and Scott Howard, "Small Training Dataset Convolutional Neural Networks for Application Specific Super-Resolution Microscopy", [Submitted](https://www.overleaf.com/project/6283ffc0e201b6a541e802cc) (Reference number: J220201G).
-2. Varun Mannam, "Energy-efficient convolutional neural networks using Hadamard method", [submitted](https://www.overleaf.com/project/62f52673726ee1476bf669c6) (IEEE Big-data 2022).
-3. Varun Mannam, and Scott Howard, "FLIM denoising using CNN's", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [In preparation](https://www.overleaf.com/project/62f527f8726ee15d41f6c11f) (Submitted 2022).
+2. Varun Mannam, "Energy-efficient convolutional neural networks using Hadamard method", [submitted](https://www.overleaf.com/project/62f52673726ee1476bf669c6) (IEEE Big-data 2022, Reference number: Bigd576).
+3. Varun Mannam, and Scott Howard, "FLIM denoising using CNNs", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [In preparation](https://www.overleaf.com/project/62f527f8726ee15d41f6c11f) (Submitted 2022).
 4. Varun Mannam, Xiaotong Yuan, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", (Biomedical Optics Express (BOE) Journal) [Final editing](https://www.overleaf.com/project/623a670910bdd0f838eaab23) (2022).
 5. Varun Mannam, and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", (Optics Letters (OL) Journal) [In preparation](https://www.overleaf.com/project/62d04204534ebe3e039153ed) (2022).
 
