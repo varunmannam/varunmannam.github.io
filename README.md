@@ -47,6 +47,8 @@
 
 ## Papers (Arxiv, BioRxiv)
 1. Varun Mannam, and Scott Howard, "Small Training Dataset Convolutional Neural Networks for Application Specific Super-Resolution Microscopy", [Submitted](https://www.biorxiv.org/content/10.1101/2022.08.29.505633v1) (Reference number: BIORXIV/2022/505633).
+2. Varun Mannam, "Low-Energy Convolutional Neural Networks (CNNs) using Hadamard Method", [submitted](https://arxiv.org/pdf/2209.09106.pdf
+) (IEEE Big-data 2022, Reference number: BigD576) 
 
 ## Papers (Draft/In prepartion/Submitted)
 
