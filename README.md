@@ -41,15 +41,16 @@
 | [Email](vmannam@nd.edu / mannamvarun@gmail.com) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1zhrNJZkoRutocBB_pbN5pAM26lxQf7AA/view?usp=sharing) |
 
 
-## Papers (Current)
+## Papers (Currently published)
 
 1. Varun Mannam, "Low-Energy Convolutional Neural Networks (CNNs) using Hadamard Method", [Published](https://arxiv.org/pdf/2209.09106.pdf
  or https://ieeexplore.ieee.org/document/10020778) (IEEE Big-data 2022)
+2. Varun Mannam, and Scott Howard, "Small Training Dataset Convolutional Neural Networks for Application Specific Super-Resolution Microscopy", [Published](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-03/036501/Small-training-dataset-convolutional-neural-networks-for-application-specific-super/10.1117/1.JBO.28.3.036501.full?SSO=1) 
 
 
 ## Papers (Arxiv, BioRxiv)
 
-1. Varun Mannam, and Scott Howard, "Small Training Dataset Convolutional Neural Networks for Application Specific Super-Resolution Microscopy", [Revised](https://www.biorxiv.org/content/10.1101/2022.08.29.505633v2) (Reference number: BIORXIV/2022/505633).
+1. 
  
 
 ## Papers (Draft/In prepartion/Submitted)
