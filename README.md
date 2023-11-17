@@ -13,7 +13,7 @@
 
 ## Experience
 - Applied Scientist II (Aug 2022 - Present)
-    - Amazon, Bellevue, WA
+    - Alexa Gen AI, Amazon, Bellevue, WA
 
 - Summer Research Intern (May 2021 - August 2021)
     - Feinstein Institute for Medical Research (FIMR), Northwell Hospitals, New York, NY
@@ -25,6 +25,11 @@
     - National Instruments R&D, Bangalore, India
 
 ## Research Areas
+- Large language modeling (LLM)
+- Design state of the art (SOTA) Gen AI models
+- Supervised finetuning (sft)
+- Reinforcement Learning with human feedback (RHLF)
+
 - Natural language processing (NLP)
 - Natural language understanding (NLU)
 - Computer Vision (CV)
@@ -38,7 +43,7 @@
 
 
 ## Links
-| [Email](vmannam@nd.edu / mannamvarun@gmail.com) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1zhrNJZkoRutocBB_pbN5pAM26lxQf7AA/view?usp=sharing) |
+| [Email](vmannam@nd.edu / mannamvarun@gmail.com) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1H-3ZzTw7Nj6JF8fVaCZ58kf8IL1L0aUf/view?usp=drive_link) |
 
 
 ## Papers (Currently published)
@@ -49,12 +54,12 @@
 
 ## Papers (Arxiv, BioRxiv)
 
-1. 
+1. Low-cost video annotation using GenAI.
  
 
 ## Papers (Draft/In prepartion/Submitted)
 
-1. Varun Mannam, and Scott Howard, "FLIM denoising using CNNs", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [Final Review](https://www.overleaf.com/project/62f527f8726ee15d41f6c11f) (Submitted 2023).
+1. Varun Mannam, and Scott Howard, "FLIM denoising using CNNs", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [Final Review](https://www.overleaf.com/project/65527f9782a7ce2314a2dfba) (Submitted 2023).
 2. Varun Mannam, Xiaotong Yuan, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", (Biomedical Optics Express (BOE) Journal) [Final review](https://www.overleaf.com/project/623a670910bdd0f838eaab23) (2023).
 3. Varun Mannam, and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", (Optics Letters Journal) [In preparation](https://www.overleaf.com/project/62d04204534ebe3e039153ed) (2023).
 4. Varun Mannam, "3D point cloud generation using connected components", [CVPR workshop](https://www.overleaf.com/project/6317cf0a35e9bc1df106fa43), 2023.
