@@ -2,7 +2,7 @@
 - Applied Scientist II at Amazon
 
 ## E-mail
-- vmannam@nd.edu / mannamvarun@gmail.com / mannamvs@amazon.com
+-  mannamvarun@gmail.com / mannamvenkata.und@gmail.com/ vmannam@nd.edu 
 
 ## Education
 - Ph.D. in Electrical Engineering, 2022
