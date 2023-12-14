@@ -90,8 +90,10 @@
 ## Projects
 - Fluorescence microscopy Image denoising 
     - [GitHub](https://github.com/ND-HowardGroup/Instant-Image-Denoising)
-- Fluorescence microscopy application-specific imaging Super-resolution
+- Fluorescence microscopy Application-specific imaging Super-resolution
     - [GitHub](https://github.com/ND-HowardGroup/Deep_learning_Super-resolution)
+- Fluorescence lifetime imaging microscopy denoising using Pretrained CNNs
+    - [GitHub](https://github.com/ND-HowardGroup/FLIM_Denoising_using_Pretrained_CNNs)
 - FLIM Deconvolution
     - [GitHub](https://github.com/ND-HowardGroup/Deconvolution_lifetime_imaging)
 - Fluorescence microscopy compressive sensing
