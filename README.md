@@ -12,8 +12,13 @@
     - Indian Institute of Technology, Kharagpur
 
 ## Experience
-- Applied Scientist II (Aug 2022 - Present)
+- Applied Scientist II (Dec 2023 - Present)
+    - People eXperience Technology Central Sciences (PXTCS), Amazon, Bellevue, WA
+    - Manager: Dr. Xin Chen
+
+- Applied Scientist II (Aug 2022 - Nov 2023)
     - Alexa Gen AI, Amazon, Bellevue, WA
+    - Manager: Dr. Zhenyu Shi 
 
 - Summer Research Intern (May 2021 - August 2021)
     - Feinstein Institute for Medical Research (FIMR), Northwell Hospitals, New York, NY
