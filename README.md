@@ -55,13 +55,14 @@
 ## Papers (Arxiv, BioRxiv)
 
 1. Low-cost video annotation using GenAI and work conducted in Artificial General Intelligence (AGI), Amazon.
+2. Multi-turn conversational chatbot for Amazon shopping using LLMs in Alexa AI, Amazon. 
  
 
 ## Papers (Draft/In prepartion/Submitted)
 
-1. Varun Mannam, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", (Biomedical Optics Express (BOE) Journal) [Final review](https://www.overleaf.com/project/623a670910bdd0f838eaab23) (2023).
-2. Varun Mannam, and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", (Optics Letters Journal) [In preparation](https://www.overleaf.com/project/62d04204534ebe3e039153ed) (2023).
-3. Varun Mannam, "3D point cloud generation using connected components", [CVPR workshop](https://www.overleaf.com/project/6317cf0a35e9bc1df106fa43), 2023.
+1. Varun Mannam, and Scott Howard, "Deconvolution of fluorescence lifetime imaging microscopy (FLIM)", (Biomedical Optics Express (BOE) Journal) [Final review](https://www.overleaf.com/project/623a670910bdd0f838eaab23) (2024).
+2. Varun Mannam, and Scott Howard, "Low dosage 3D volume fluorescence microscopy imaging using compressive sensing", (Optics Letters Journal) [In preparation](https://www.overleaf.com/project/62d04204534ebe3e039153ed) (2024).
+3. Varun Mannam, "3D point cloud generation using connected components", [CVPR workshop](https://www.overleaf.com/project/6317cf0a35e9bc1df106fa43), 2024.
 
 ## Papers (Published)
 1. See my google scholar page: [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao)
