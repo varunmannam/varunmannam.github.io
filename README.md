@@ -2,7 +2,7 @@
 - Applied Scientist II at Amazon
 
 ## E-mail
--  mannamvarun@gmail.com / vmannam@nd.edu 
+-  mannamvarun@gmail.com / vmannam@alumni.nd.edu 
 
 ## Education
 - Ph.D. in Electrical Engineering, 2022
@@ -52,7 +52,7 @@
 
 
 ## Papers (Currently published)
-1. Varun Mannam, and Scott Howard, "Improving fluorescence lifetime imaging microscopy phasor accuracy using convolutional neural networks", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [**Published in Frontiers**](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1335413/abstract) (2023) or .
+1. Varun Mannam, and Scott Howard, "Improving fluorescence lifetime imaging microscopy phasor accuracy using convolutional neural networks", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [**Published in Frontiers**](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1335413/abstract) (2023).
 2. Varun Mannam, "Low-Energy Convolutional Neural Networks (CNNs) using Hadamard Method", [Published in IEEE Big-data 2022](https://ieeexplore.ieee.org/document/10020778) or [ArXiv](https://arxiv.org/pdf/2209.09106.pdf) in 2023.
 3. Varun Mannam, and Scott Howard, "Small Training Dataset Convolutional Neural Networks for Application Specific Super-Resolution Microscopy", [Published in Jounral of Biomedical Optics by SPIE](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-03/036501/Small-training-dataset-convolutional-neural-networks-for-application-specific-super/10.1117/1.JBO.28.3.036501.full?SSO=1) or [biorxiv](https://www.biorxiv.org/content/10.1101/2022.08.29.505633v2) in 2023.
 
@@ -109,8 +109,8 @@
 I am working as an Applied Scientist II in PXT Central Science team, which is part of People eXperience Technology organization at Aamzon, Bellevue. I was born in Ongole, Andhra Pradesh, India, and received a Bachelor of Technology and Master of Technology degree in Electronics and Communications Engineering from Bapatla Engineering College, Acharya Nagarjuna University, Guntur, Andhra Pradesh, India and Indian Institute of Technology Kharagpur (**IIT KGP**), West Bengal, India, in 2010 and 2012, respectively. From 2012-2017, I worked as a Staff Software Engineer to develop wireless communication protocols (like Bluetooth, WIFI) at National Instruments (R&D) Bangalore, India. Later, I joined the University of Notre Dame in 2017 to pursue a doctorate in Electrical Engineering. During my Ph.D. I worked with Dr. Scott Howard ([Link](https://engineering.nd.edu/faculty/scott-howard/)) in the Biophotonics Research Group. My research is about the applications of fluorescence microscopy that could advance the work of other researchers and medical personnel in a wide variety of fields using the latest state-of-the-art computer vision techniques. My research interests include NLP, deep learning, machine learning, computer vision, Fluorescence lifetime imaging microscopy (FLIM), super-resolution, compressive sensing and, neural circuits.
 
 ## Last updated Date
-- DATE: 02/01/2024
+- DATE: 07/09/2024
   
 ## Contact
-- Varun Mannam (mannamvarun@gmail.com/ vmannam@nd.edu)
+- Varun Mannam (mannamvarun@gmail.com/ vmannam@alumni.nd.edu)
 
