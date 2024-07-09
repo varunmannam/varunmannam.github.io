@@ -48,7 +48,7 @@
 
 
 ## Links
-| [Email](mannamvarun@gmail.com) | [Alumni](vmannam@alumni.nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1H-3ZzTw7Nj6JF8fVaCZ58kf8IL1L0aUf/view?usp=drive_link) |
+| [Email] (mannamvarun@gmail.com) | [Alumni] (vmannam@alumni.nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1H-3ZzTw7Nj6JF8fVaCZ58kf8IL1L0aUf/view?usp=drive_link) |
 
 
 ## Papers (Currently published)
