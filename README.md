@@ -109,7 +109,7 @@
 I am working as an Applied Scientist II in PXT Central Science team, which is part of People eXperience Technology organization at Aamzon, Bellevue. I was born in Ongole, Andhra Pradesh, India, and received a Bachelor of Technology and Master of Technology degree in Electronics and Communications Engineering from Bapatla Engineering College, Acharya Nagarjuna University, Guntur, Andhra Pradesh, India and Indian Institute of Technology Kharagpur (**IIT KGP**), West Bengal, India, in 2010 and 2012, respectively. From 2012-2017, I worked as a Staff Software Engineer to develop wireless communication protocols (like Bluetooth, WIFI) at National Instruments (R&D) Bangalore, India. Later, I joined the University of Notre Dame in 2017 to pursue a doctorate in Electrical Engineering. During my Ph.D. I worked with Dr. Scott Howard ([Link](https://engineering.nd.edu/faculty/scott-howard/)) in the Biophotonics Research Group. My research is about the applications of fluorescence microscopy that could advance the work of other researchers and medical personnel in a wide variety of fields using the latest state-of-the-art computer vision techniques. My research interests include NLP, deep learning, machine learning, computer vision, Fluorescence lifetime imaging microscopy (FLIM), super-resolution, compressive sensing and, neural circuits.
 
 ## Last updated Date
-- DATE: 07/09/2024
+- DATE: 12/01/2024
   
 ## Contact
 - Varun Mannam (mannamvarun@gmail.com/ vmannam@alumni.nd.edu)
