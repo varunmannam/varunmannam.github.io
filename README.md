@@ -50,6 +50,13 @@
 ## Links
 | [Email] (mannamvarun@gmail.com) | [Alumni] (vmannam@alumni.nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/13CUrLShvbWoQ3633QzRUoF148uLCt8Sf/view?usp=drive_link) |
 
+## Papers (working in Amazon)
+1. Varun Mannam, and Hanbo Sun, and Zhenyu Shi, "Leveraging Human Expertise to Video Annotation using Robust Key Frames Generation", Accepted in AMLC 2023, ADS-Science team, Alexa AI (part of AGI team), Amazon
+2. Varun Mannam, and Fang Wang, and Xin Chen, "AI Assistant for Human Resources: Enhancing Multimodal Document Extraction with LLMs", Accepted in 4th AMLC Workshop on People-Centered Science 2024, PXT-Central Science Team, PXTCS, Amazon
+3. Varun Mannam, and Fang Wang, "Robust Fraud Detection in Health Data using Trend and Graph Analytics", Abstract submitted to AMLC 2024, PXT-Central Science Team, PXTCS, Amazon
+4. Varun Mannam, and Fang Wang, "LLM-Powered Time-Series: Unleashing the Potential for Healthcare Cost & Attrition Forecasting", Abstract submitted to AMLC 2024, PXT-Central Science Team, PXTCS, Amazon
+5. Varun Mannam, and Fang Wang, and Xin Chen, "VisualRAG: A Multimodal Framework for Enhanced Self-Service Employee Navigation", Abstract Preparing to AMLC 2025, PXT-Central Science Team, PXTCS, Amazon
+6. Varun Mannam, and Fang Wang, and Xin Chen, "Autonomous Claims Inspection: A Multi-Agent LLM Approach to Healthcare Compliance", Abstract Preparing to AMLC 2025, PXT-Central Science Team, PXTCS, Amazon
 
 ## Papers (Currently published)
 1. Varun Mannam, and Scott Howard, "Improving fluorescence lifetime imaging microscopy phasor accuracy using convolutional neural networks", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [**Published in Frontiers**](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1335413/abstract) (2023).
