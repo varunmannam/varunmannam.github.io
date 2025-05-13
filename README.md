@@ -12,9 +12,13 @@
     - Indian Institute of Technology, Kharagpur
 
 ## Experience
-- Applied Scientist II (Dec 2023 - Present)
+- Applied Scientist II (Dec 2023 - Feb 2024 & Mar 2025 - Present)
     - People eXperience Technology Central Sciences (PXTCS), Amazon, Bellevue, WA
     - Manager: Dr. Xin Chen
+
+- Applied Scientist II (Mar 2024 - Feb 2025)
+    - People eXperience Technology Central Sciences (PXTCS), Amazon, Bellevue, WA
+    - Manager: Fang Wang
 
 - Applied Scientist II (Aug 2022 - Nov 2023)
     - Alexa Gen AI, Amazon, Bellevue, WA
@@ -55,8 +59,8 @@
 2. Varun Mannam, and Fang Wang, and Xin Chen, "AI Assistant for Human Resources: Enhancing Multimodal Document Extraction with LLMs", Accepted in 4th AMLC Workshop on People-Centered Science 2024, PXT-Central Science Team, PXTCS, Amazon [Link](https://drive.google.com/file/d/11pj-aYY-UrVx52uPl5nCUy11kUeY3Vos/view?usp=drive_link) 
 3. Varun Mannam, and Fang Wang, "Robust Fraud Detection in Health Data using Trend and Graph Analytics", Abstract submitted to AMLC 2024, PXT-Central Science Team, PXTCS, Amazon [Link](https://drive.google.com/file/d/1-jupwkErcjcyEp8fu32ZfqNJdIukf5HQ/view?usp=drive_link) 
 4. Varun Mannam, and Fang Wang, "LLM-Powered Time-Series: Unleashing the Potential for Healthcare Cost & Attrition Forecasting", Abstract submitted to AMLC 2024, PXT-Central Science Team, PXTCS, Amazon [Link](https://drive.google.com/file/d/1_UiSd5OtpsYRH2qKXBKMBLpOBnAjMaCu/view?usp=drive_link) 
-5. Varun Mannam, and Fang Wang, and Xin Chen, "VisualRAG: A Multimodal Framework for Enhanced Self-Service Employee Navigation", Abstract Preparing to AMLC 2025, PXT-Central Science Team, PXTCS, Amazon [Link](https://drive.google.com/file/d/1rxp2E8VV0G1-EC18DNgqCnKKJG5dqJOQ/view?usp=drive_link) 
-6. Varun Mannam, and Fang Wang, and Xin Chen, "Autonomous Claims Inspection: A Multi-Agent LLM Approach to Healthcare Compliance", Abstract Preparing to AMLC 2025, PXT-Central Science Team, PXTCS, Amazon [Link](https://drive.google.com/file/d/1SZXf6NP4zZZ4pssfJOsbVhkrlHW3vr1z/view?usp=drive_link) 
+5. Varun Mannam, and Fang Wang, and Xin Chen, "VisualRAG: A Multimodal Framework for Enhanced Self-Service Employee Navigation", Abstract Preparing to AMLC 2025, PXT-Central Science Team, PXTCS, Amazon [Link](https://drive.google.com/file/d/1FuPvSMq8_W9IrZwZLmvBtZnQP0kis95h/view?usp=drive_link) 
+6. Varun Mannam, and Fang Wang, and Xin Chen, "Autonomous Claims Inspection: A Multi-Agent LLM Approach to Healthcare Compliance", Abstract Preparing to AMLC 2025, PXT-Central Science Team, PXTCS, Amazon [Link](https://drive.google.com/file/d/1Ax5W5v1sSeHM7TiMlhtz7PoFCP50G8do/view?usp=drive_link) 
 
 ## Papers (Currently published)
 1. Varun Mannam, and Scott Howard, "Improving fluorescence lifetime imaging microscopy phasor accuracy using convolutional neural networks", ([Frontiers Phasor Analysis for FLIM data](https://www.frontiersin.org/research-topics/44126/phasor-analysis-for-fluorescence-lifetime-data)) [**Published in Frontiers**](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1335413/abstract) (2023).
@@ -116,7 +120,7 @@
 I am working as an Applied Scientist II in PXT Central Science team, which is part of People eXperience Technology organization at Aamzon, Bellevue. I was born in Ongole, Andhra Pradesh, India, and received a Bachelor of Technology and Master of Technology degree in Electronics and Communications Engineering from Bapatla Engineering College, Acharya Nagarjuna University, Guntur, Andhra Pradesh, India and Indian Institute of Technology Kharagpur (**IIT KGP**), West Bengal, India, in 2010 and 2012, respectively. From 2012-2017, I worked as a Staff Software Engineer to develop wireless communication protocols (like Bluetooth, WIFI) at National Instruments (R&D) Bangalore, India. Later, I joined the University of Notre Dame in 2017 to pursue a doctorate in Electrical Engineering. During my Ph.D. I worked with Dr. Scott Howard ([Link](https://engineering.nd.edu/faculty/scott-howard/)) in the Biophotonics Research Group. My research is about the applications of fluorescence microscopy that could advance the work of other researchers and medical personnel in a wide variety of fields using the latest state-of-the-art computer vision techniques. My research interests include NLP, deep learning, machine learning, computer vision, Fluorescence lifetime imaging microscopy (FLIM), super-resolution, compressive sensing and, neural circuits.
 
 ## Last updated Date
-- DATE: 04/04/2025
+- DATE: 05/14/2025
   
 ## Contact
 - Varun Mannam (mannamvarun@gmail.com/ vmannam@alumni.nd.edu)
