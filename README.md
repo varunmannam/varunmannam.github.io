@@ -52,7 +52,7 @@
 
 
 ## Links
-| [Email] (mannamvarun@gmail.com) | [Alumni] (vmannam@alumni.nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/13CUrLShvbWoQ3633QzRUoF148uLCt8Sf/view?usp=drive_link) |
+| [Email] (mannamvarun@gmail.com) | [Alumni] (vmannam@alumni.nd.edu) | [LinkedIN](https://www.linkedin.com/in/mannamvarun/) | [Google Scholar](https://scholar.google.com/citations?user=Obigz0UAAAAJ&hl=en&oi=ao) | [Twitter](https://twitter.com/mannam_varun) | [Research Gate](https://www.researchgate.net/profile/Varun-Mannam) | [GitHub](https://github.com/varunmannam) | [Resume](https://drive.google.com/file/d/1D1Y8UGV58gwZ6Ye1oZZQk9jwrYUnORvs/view?usp=sharing) |
 
 ## Papers (working in Amazon)
 1. Varun Mannam, and Hanbo Sun, and Zhenyu Shi, "Leveraging Human Expertise to Video Annotation using Robust Key Frames Generation", Accepted in AMLC 2023, ADS-Science team, Alexa AI (part of AGI team), Amazon [Link](https://drive.google.com/file/d/1Ny1TH3eVodJbcxln5pZ9IVbEGJDfc9Cn/view?usp=drive_link)
